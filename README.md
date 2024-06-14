@@ -56,3 +56,8 @@ Creating a Zomato clone involves several key components:
 - **PHP or Node.js** (optional) for server-side scripting and database interaction
 
 This combination of technologies allows you to create a fully functional Zomato clone with a focus on both user experience and data management.
+# Screenshots
+![Screenshot (31)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/23304e08-fd5f-43d7-bdc4-41ead876bf9c)
+![Screenshot (32)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/c3de2494-8b14-4557-bbc9-967458effcc1)
+![Screenshot (33)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/33ca7280-0787-4cc4-a385-d97fd3d83103)
+![Screenshot (34)](https://github.com/BishwanathKumarPanda/Hotel-Reservation-System/assets/138992024/4b7b3d76-2ba6-457c-ac95-6fe014bfb215)
